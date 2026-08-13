@@ -1,0 +1,26 @@
+Stwórz nowoczesne, dynamiczne wideo wyjaśniające działanie systemu opartego na pięciu agentach sztucznej inteligencji, wykorzystywanego do automatyzacji analizy incydentów IT. W filmie nie pokazuj żadnego prezentera ani awatara. Ma być słyszalny jedynie głos narratora, bez postaci w kadrze.
+
+Jako warstwę wizualną stwórz animowane slajdy, grafiki i punktowane sekcje na podstawie narracji. Utrzymuj kolorystykę zgodną z prezentacją: fiolet (#6A1B9A) oraz pomarańcz (#F2994A) z płynnymi gradientami fiolet–pomarańcz. Stosuj czytelne, minimalistyczne layouty. Dodawaj subtelne animacje ikon: analiza, wyszukiwanie, raporty, audyt, pytania, procesy.
+Wykorzystaj styl „AI explainer video”: nowoczesne przejścia, delikatne animacje tekstu, podkreślenia kluczowych elementów, dynamiczne wysuwanie punktów. Tempo narracji umiarkowane.
+
+Użyj poniższego pełnego tekstu jako narracji lektora:
+
+„W tym filmie przedstawiam system pięciu wyspecjalizowanych agentów AI, zaprojektowany do automatyzacji analizy incydentów IT oraz szybszego wykrywania powtarzalnych problemów.
+
+Celem systemu jest poprawna klasyfikacja co najmniej osiemdziesięciu procent zgłoszeń, wskazywanie najbardziej trafnych źródeł wiedzy w dziewięćdziesięciu procentach przypadków oraz generowanie kompletnych rozwiązań również na poziomie dziewięćdziesięciu procent.
+
+Pierwszy agent to Smart Ticket Classifier. Działa analitycznie i metodycznie. Przypisuje tagi do zgłoszeń, grupuje podobne incydenty oraz określa poziom pewności klasyfikacji. Jeśli brakuje informacji, zgłasza potrzebę doprecyzowania.
+
+Drugi agent to Knowledge Base Expert. Weryfikuje rozwiązania, zaczynając od wewnętrznej bazy wiedzy, a w razie potrzeby przeszukuje również źródła zewnętrzne. Każde znalezione rozwiązanie otrzymuje ocenę wiarygodności i status: zweryfikowane, społecznościowe lub eksperymentalne.
+
+Trzeci agent, Composer, syntetyzuje dane i tworzy gotowe instrukcje krok po kroku. Tworzy spójne, techniczne raporty przeznaczone dla inżynierów IT, wykorzystując wyłącznie to, co dostarczył agent drugi.
+
+Czwarty agent, Evaluator, pełni rolę audytora jakości. Weryfikuje kompletność raportów, poprawność źródeł, identyfikuje duplikaty i wskazuje braki, ale nie wprowadza własnych zmian.
+
+Piąty agent, Clarification, aktywuje się, gdy którykolwiek z agentów zgłosi potrzebę doprecyzowania. Generuje jasne i precyzyjne pytania, które pozwalają uzupełnić informacje o zgłoszeniu.
+
+System pięciu agentów AI tworzy spójne, powtarzalne i skalowalne podejście do obsługi incydentów. Dzięki temu zespoły wsparcia IT szybciej reagują na problemy, pracują efektywniej i mają dostęp do rzetelnych rekomendacji.
+
+To właśnie tak sztuczna inteligencja wspiera organizacje w automatyzacji analizy incydentów IT.”
+
+Zadbaj, aby wideo było dynamiczne, profesjonalne i wizualnie spójne z identyfikacją prezentacji AIDEAS. Nie umieszczaj prezentera. Słychać jedynie narratora.
