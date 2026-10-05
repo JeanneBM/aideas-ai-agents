@@ -1,1 +1,2 @@
-
+Prompt: 
+Stwórz symboliczny portret kobiety, która jest wytrwała, dociekliwa i autentyczna. Przedstaw ją podczas budowania własnego projektu: uważnie analizuje złożoną konstrukcję i cierpliwie łączy jej elementy w działającą całość. Jej twarz wyraża skupienie i spokojną determinację, a otoczenie zawiera szkice, otwarte notatki i ślady kolejnych prób. Naturalny wygląd, swobodna postawa, bez wystudiowanej pozy. Obraz ma opowiadać o osobie, która chce rozumieć, samodzielnie tworzyć i pozostawać wierna sobie. Styl malarski z realistycznymi detalami, ciepłe światło, stonowane kolory, bez napisów.
